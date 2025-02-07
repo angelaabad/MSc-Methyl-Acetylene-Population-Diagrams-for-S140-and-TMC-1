@@ -22,8 +22,7 @@ _Stockholm University (SU), Stockholm (Sweden)_
 - S140:
 <img src="https://github.com/angelaabad/MSc-Methyl-Acetylene-Population-Diagrams-for-S140-and-TMC-1/blob/main/Images/Reduced-spectra-S140.png" width="500" />
 
-
--TMC-1:
+- TMC-1:
 <img src="https://github.com/angelaabad/MSc-Methyl-Acetylene-Population-Diagrams-for-S140-and-TMC-1/blob/main/Images/Reduced-spectra-TMC-1.png" width="500" />
 
 
